@@ -110,20 +110,23 @@ PWdUZHowbUwwTlhhc2xYWXNCM0w1UlhhdWxtWnVsMlh6SjNiczkyWXZVbWRweDJMMFZtYnU4MmJrRm1h
 #EXTINF:-1 logo="https://static.iptv-epg.com/kr/ArirangTV.kr.png" group-title="BDIX01",Arirang
 PWdUZHowbUx6dG1iMWgyWXZjbWJoSlhheUYyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
 
-
-
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_jalsha_movies_in.jpg" group-title="BDIX01",Star Jalsha Movies
 PWdUZHowbUx6dG1iMWgyWXZNWFpwWjNidDlWWW9OSGJocDJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="BDIX04",Star Gold
+PWdUZHowbUx6dG1iMWgyWXZ3R2R1bDJYa3gyYm45bGNoUjNjdlVtZHB4MkwwVm1idTgyYmtGbWFwZFdhazVpZDBCWGF1RURNbGRHWmw5eUw2TUhjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="BDIX04",Star Gold HD
+PWdUZHowbUwwTlhhc2xYWXNCM0xreDJibjlsY2hSM2N2VW1kcHgyTDBWbWJ1ODJia0ZtYXBkV2FrNWlkMEJYYXVFRE1sZEdabDl5TDZNSGMwUkhh
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="BDIX04",Star Gold 2
 NFUzTXQ1eWNyNVdkb04yTHI5Mlh6VldhMjlXYnZVbWRweDJMMFZtYnU4MmJrRm1hcGRXYWs1aWQwQlhhdUVETWxkR1psOXlMNk1IYzBSSGE=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="BDIX04",Star Gold HD (1)
-PWdUZHowbUwwTlhhc2xYWXNCM0xreDJibjlsY2hSM2N2VW1kcHgyTDBWbWJ1ODJia0ZtYXBkV2FrNWlkMEJYYXVFRE1sZEdabDl5TDZNSGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="BDIX04",Zee Cinema (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="BDIX04",Zee Cinema
 PT1BTzFOVGJ1TTNhdVZIYWo5U1l0Vm1icE4yWGxWbWV2VW1kcHgyTDBWbWJ1ODJia0ZtYXBkV2FrNWlkMEJYYXVFRE1sZEdabDl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="BDIX04",Zee Bollywood
+PWdUZHowbUx6dG1iMWgyWXZNV2F6TlhZc04yWGxWbWV2VW1kcHgyTDBWbWJ1ODJia0ZtYXBkV2FrNWlkMEJYYXVFRE1sZEdabDl5TDZNSGMwUkhh
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="MIXED02",B4U Music
 NFUzTXQ1Q2VsUm1icDlTS3hBREt0RldaeVIzVXZreVlwTlhkdFZGTkNoQ2JsNW1iaGgyUXZVbWRweDBMamwyYzExV2QwSTJMMDVXWjA1MmJEOUNOMUlqTHhZVE11a1RPeDR5TXdFekx2b0RjMFJIYQ==
-
