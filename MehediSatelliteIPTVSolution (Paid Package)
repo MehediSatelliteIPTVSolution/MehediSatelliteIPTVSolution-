@@ -129,8 +129,11 @@ PWdUZHowbUx6dG1iMWgyWXZjbWJoSlhheUYyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1M
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_jalsha_movies_in.jpg" group-title="BDIX01",Star Jalsha Movies
 PWdUZHowbUx6dG1iMWgyWXZNWFpwWjNidDlWWW9OSGJocDJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
 
-#EXTINF:0 tvg-id="" tvg-language="English" tvg-name="" tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="Others",Star Movies HD
-http://livecdnh1.tvanywhere.ae:80/hls/star_movies/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="Others",Star Movies Select HD
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="FTPBD",HBO
+http://otv.ftpbd.net/streams/111/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="ICC 3",Sony Pix
 http://103.205.133.19/hls/sonypix.m3u8
@@ -152,3 +155,6 @@ PWdUZHowbUx6dG1iMWgyWXZNV2F6TlhZc04yWGxWbWV2VW1kcHgyTDBWbWJ1ODJia0ZtYXBkV2FrNWlk
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="MIXED02",B4U Music
 NFUzTXQ1Q2VsUm1icDlTS3hBREt0RldaeVIzVXZreVlwTlhkdFZGTkNoQ2JsNW1iaGgyUXZVbWRweDBMamwyYzExV2QwSTJMMDVXWjA1MmJEOUNOMUlqTHhZVE11a1RPeDR5TXdFekx2b0RjMFJIYQ==
+
+
+
