@@ -20,6 +20,12 @@ http://103.205.133.14/hls/ekushey.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="BDIX01",NTV
 PT1BTzFOVGJ1TTNhdVZIYWo5aWQwNTJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqdKl40.png" group-title="BANGLADESH",NTV (UK)
+https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqdKl40.png" group-title="BANGLADESH",NTV (US)
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGPCmBgjEseXegUFsZnAMzEuqNJNopLpApz8XhEBAv5JWtSYbT&usqp=CAU" group-title="BDIX01",RTV
 NFUzTXQ1Q2R6bEdiNUZHYnc5aWQwSjNMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
 
