@@ -126,6 +126,9 @@ PWdUZHowbUwwTlhhc2xYWXNCM0w1UlhhdWxtWnVsMlh6SjNiczkyWXZVbWRweDJMMFZtYnU4MmJrRm1h
 #EXTINF:-1 logo="https://static.iptv-epg.com/kr/ArirangTV.kr.png" group-title="BDIX01",Arirang
 PWdUZHowbUx6dG1iMWgyWXZjbWJoSlhheUYyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1MNXhHYnZCSGRwOXlMNk1IYzBSSGE=
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/ceKNpFn.png" group-title="KS",Ary Asia
+https://itpolly.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_jalsha_movies_in.jpg" group-title="BDIX01",Star Jalsha Movies
 PWdUZHowbUx6dG1iMWgyWXZNWFpwWjNidDlWWW9OSGJocDJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
 
@@ -214,4 +217,55 @@ http://103.205.133.14/hls/9xm.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/F4dP6OP.png" group-title="KS",Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="KS",Sangsad TV
+https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="ICC 2",Independent
+http://103.205.133.14/hls/independent.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="KS",ATN News
+https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="KS",Shomoy TV
+https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="KS",CHANNEL 24
+https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="EBox2",Ekattor
+http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="KS",JAMUNA TV
+https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="KS",DBC News
+https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="KS",News 24
+https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="KS",BBC World
+https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="Others",BBC World News
+http://220.158.149.28:8180/TV00000000000000000112@HHZT
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/CuqQXZz.png" group-title="KS",CNN
+https://itpolly.iptv.digijadoo.net/live/cnn/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Mxm77nQ.png" group-title="KS",Al Jazeera
+https://itpolly.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/68RuKLM.png" group-title="KS",DW
+https://itpolly.iptv.digijadoo.net/live/dw/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/tl4uL9a.png" group-title="KS",NHKWorld Japan
+https://itpolly.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="FTPBD",Star Sports 1
+http://otv.ftpbd.net/streams/104/index.m3u8
+
 
