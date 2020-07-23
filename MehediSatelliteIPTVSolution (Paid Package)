@@ -198,8 +198,20 @@ https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="KS",Nick
 https://itpolly.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="KS",Gaan Bangla
+https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="KS",SangeetBangla
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="MIXED02",B4U Music
 NFUzTXQ1Q2VsUm1icDlTS3hBREt0RldaeVIzVXZreVlwTlhkdFZGTkNoQ2JsNW1iaGgyUXZVbWRweDBMamwyYzExV2QwSTJMMDVXWjA1MmJEOUNOMUlqTHhZVE11a1RPeDR5TXdFekx2b0RjMFJIYQ==
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/srRLjLe.png" group-title="KS",MTV Beats India
+https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="ICC 2",9XM
+http://103.205.133.14/hls/9xm.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/F4dP6OP.png" group-title="KS",Zing
+https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 
