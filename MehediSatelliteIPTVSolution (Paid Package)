@@ -62,6 +62,10 @@ PWdUZHowbUx6dG1iMWgyWXZrVE10WUhkaHgyWnVGbVl2VW1kcHgyTHhnRE00b0RPeElqTHlBak11UVRN
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="MIXED01",NAGORIK TV HD [BD]
 PT1BTzFOVGJ1TTNhdVZIYWo5eWFwSjNibkZtYnZVbWRweDJMeGdETTRvRE94SWpMeUFqTXVRVE15NHlNd0V6THZvRGMwUkhh
 
+#EXTM3U
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="EBox2",Anando TV
+http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BDIX04",Star Jalsha HD [IN]
 PWdUZHowbUx6dG1iMWgyWXZRR2FmRkdhenhXWXE5bGNoUjNjdlVtZHB4MkwwVm1idTgyYmtGbWFwZFdhazVpZDBCWGF1RURNbGRHWmw5eUw2TUhjMFJIYQ==
 
@@ -104,6 +108,9 @@ NFUzTXQ1eWNyNVdkb04yTGtoMlh6SjNiczkyWXZVbWRweDJMMFZtYnU4MmJrRm1hcGRXYWs1aWQwQlhh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="BDIX04",Zoom
 PT1BTzFOVGJ1TTNhdVZIYWo5U2J2OW1ldlVtZHB4MkwwVm1idTgyYmtGbWFwZFdhazVpZDBCWGF1RURNbGRHWmw5eUw2TUhjMFJIYQ==
 
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagef719ec83bcbf7a20.png" group-title="ICC 2",& TV
+http://103.205.133.14/hls/andtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="BDIX04",STAR WORLD
 NFUzTXQ1Q2R6bEdiNUZHYnc5Q1pzSjNiMzlsY2hSM2N2VW1kcHgyTDBWbWJ1ODJia0ZtYXBkV2FrNWlkMEJYYXVFRE1sZEdabDl5TDZNSGMwUkhh
 
@@ -121,6 +128,9 @@ PWdUZHowbUx6dG1iMWgyWXZjbWJoSlhheUYyTGxaWGFzOUNkbDVtTHY5R1pocFdhbmxHWnVZSGR3bG1M
 
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/star_jalsha_movies_in.jpg" group-title="BDIX01",Star Jalsha Movies
 PWdUZHowbUx6dG1iMWgyWXZNWFpwWjNidDlWWW9OSGJocDJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
+
+#EXTINF:0 tvg-id="" tvg-language="English" tvg-name="" tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="Others",Star Movies HD
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="ICC 3",Sony Pix
 http://103.205.133.19/hls/sonypix.m3u8
