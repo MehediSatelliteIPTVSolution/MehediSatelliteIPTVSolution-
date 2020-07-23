@@ -156,6 +156,48 @@ PT1BTzFOVGJ1TTNhdVZIYWo5U1l0Vm1icE4yWGxWbWV2VW1kcHgyTDBWbWJ1ODJia0ZtYXBkV2FrNWlk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="BDIX04",Zee Bollywood
 PWdUZHowbUx6dG1iMWgyWXZNV2F6TlhZc04yWGxWbWV2VW1kcHgyTDBWbWJ1ODJia0ZtYXBkV2FrNWlkMEJYYXVFRE1sZEdabDl5TDZNSGMwUkhh
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="FTPBD",Sony Max
+http://otv.ftpbd.net/streams/109/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/MhSG4sc.png" group-title="ICC 3",B4U Movies
+http://103.205.133.19/hls/b4umovies.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/EV57mn3.png" group-title="KS",Lotus Macaw
+https://itpolly.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="KS",Nat Geo
+https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="KS",Nat Geo Wild
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imageab5309baa10a397c.png" group-title="KS", Nat Geo People
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/5LsfS6h.png" group-title="KS",TLC HD English
+https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image029be7097122b523.png" group-title="KS",History TV HD
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Tz8gCCz.png" group-title="KS",Hum Masala
+https://itpolly.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="KS",Duronto TV
+https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/WKEwYF3.png" group-title="KS",Nick
+https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/pt48qLO.png" group-title="KS",Nick Jr
+https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/SyDM00x.png" group-title="KS",Nick Sonic
+https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="KS",Nick
+https://itpolly.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png" group-title="MIXED02",B4U Music
 NFUzTXQ1Q2VsUm1icDlTS3hBREt0RldaeVIzVXZreVlwTlhkdFZGTkNoQ2JsNW1iaGgyUXZVbWRweDBMamwyYzExV2QwSTJMMDVXWjA1MmJEOUNOMUlqTHhZVE11a1RPeDR5TXdFekx2b0RjMFJIYQ==
 
