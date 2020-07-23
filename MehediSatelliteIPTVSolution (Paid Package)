@@ -135,6 +135,9 @@ http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="FTPBD",HBO
 http://otv.ftpbd.net/streams/111/index.m3u8
 
+#EXTINF:0 tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="Others",Warner TV
+http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/25ETmcG.png" group-title="ICC 3",Sony Pix
 http://103.205.133.19/hls/sonypix.m3u8
 
