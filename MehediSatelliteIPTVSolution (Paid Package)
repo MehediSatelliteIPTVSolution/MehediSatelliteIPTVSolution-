@@ -174,9 +174,6 @@ http://103.205.133.19/hls/b4umovies.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/EV57mn3.png" group-title="KS",Lotus Macaw
 https://itpolly.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 
-#EXTINF:-1 ,National Geographic
-https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="KS",Nat Geo
 https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
 
