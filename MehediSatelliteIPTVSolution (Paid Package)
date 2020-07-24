@@ -144,6 +144,36 @@ http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="FTPBD",HBO
 http://otv.ftpbd.net/streams/111/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="ENGLISH MOVIES",Movies Now (1)
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="ENGLISH MOVIES",Movies Now (2)
+http://mag.123tv.to:8080/Daananavisis/ixXIWrgFBZ/13681
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="ENGLISH MOVIES",MBC MAX HD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="ENGLISH MOVIES",MBC MAX FHD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="ENGLISH MOVIES",MBC 2 HD
+https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="ENGLISH MOVIES",MBC 2 FHD
+https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="ENGLISH MOVIES",MBC Action HD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="ENGLISH MOVIES",MBC Action FHD
+
+MOVIES",Movies Now (2)
+https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="ENGLISH MOVIES",MNX
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+
 #EXTINF:0 tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="Others",Warner TV
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 
