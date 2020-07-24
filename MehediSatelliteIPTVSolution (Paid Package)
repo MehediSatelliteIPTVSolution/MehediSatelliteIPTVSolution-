@@ -195,6 +195,9 @@ PWdUZHowbUx6dG1iMWgyWXZNV2F6TlhZc04yWGxWbWV2VW1kcHgyTDBWbWJ1ODJia0ZtYXBkV2FrNWlk
 #EXTINF:0 tvg-logo="https://i.imgur.com/8HTCcDe.png" group-title="FTPBD",Sony Max
 http://otv.ftpbd.net/streams/109/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIES",SONY SET MAX (1)
+http://otv.ftpbd.net/streams/109/index.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/MhSG4sc.png" group-title="ICC 3",B4U Movies
 http://103.205.133.19/hls/b4umovies.m3u8
 
