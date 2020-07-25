@@ -147,9 +147,8 @@ http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="Others",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/gUu2nMa.png" group-title="FTPBD",HBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="ENGLISH MOVIES",HBO
 http://otv.ftpbd.net/streams/111/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="ENGLISH MOVIES",Movies Now (1)
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
@@ -240,7 +239,7 @@ https://itpolly.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagedb1bf605067bc47a.png" group-title="KS",Duronto TV
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK+ (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK+
 https://cdn-laos.workpoint.news/sd-cartoonnetwork_480/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/WKEwYF3.png" group-title="KS",Nick
