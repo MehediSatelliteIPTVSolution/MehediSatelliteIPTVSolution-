@@ -189,9 +189,6 @@ NFUzTXQ1eWNyNVdkb04yTHI5Mlh6VldhMjlXYnZVbWRweDJMMFZtYnU4MmJrRm1hcGRXYWs1aWQwQlhh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="BDIX04",Zee Cinema
 PT1BTzFOVGJ1TTNhdVZIYWo5U1l0Vm1icE4yWGxWbWV2VW1kcHgyTDBWbWJ1ODJia0ZtYXBkV2FrNWlkMEJYYXVFRE1sZEdabDl5TDZNSGMwUkhh
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="HINDI MOVIES",Zee Cinema HD (2)
-http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="BDIX04",Zee Bollywood
 PWdUZHowbUx6dG1iMWgyWXZNV2F6TlhZc04yWGxWbWV2VW1kcHgyTDBWbWJ1ODJia0ZtYXBkV2FrNWlkMEJYYXVFRE1sZEdabDl5TDZNSGMwUkhh
 
@@ -209,6 +206,9 @@ https://itpolly.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4duWidg.png" group-title="KS",Nat Geo
 https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="INFOTAINMENT",NGC HD
+http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/wpLsQVT.png" group-title="KS",Nat Geo Wild
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
