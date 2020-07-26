@@ -68,9 +68,11 @@ PT1BTzFOVGJ1TTNhdVZIYWo5aWQwOTFiMEJYWmxSMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YWVt5Yw.jpg" group-title="MIXED01",BANGLA TV HD [BD]
 PWdUZHowbUx6dG1iMWgyWXZrVE10WUhkaHgyWnVGbVl2VW1kcHgyTHhnRE00b0RPeElqTHlBak11UVRNeTR5TXdFekx2b0RjMFJIYQ==
 
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="ICC 2",Nagorik TV
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="ICC 2",Nagorik TV HD
 http://103.205.133.14/hls/nagorik.m3u8
 
+
+#EXTM3U
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="EBox2",Anando TV
 http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
 
