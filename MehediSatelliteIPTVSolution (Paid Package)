@@ -352,8 +352,8 @@ http://103.214.202.218:8081/live/espnhd/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="ColorsBD",PTV Sports
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Cricket HD
-https://cdn-laos.workpoint.news/uk-skysports-cricket_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="MIXED01",Sky Cricket HD
+PT1BTzFOVGJ1Z1haazVXYXZBak0zOEZkbHQyWXBKM1l0TUhkeTlHY3psM2F6MXlhMTl5YzNWbWJ1UW5icDlHY3JKM2IzNXljdkZHYnQ0R1pqOXlMNk1IYzBSSGE=
 
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="SPORTS",Ten Sports PK
 http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
