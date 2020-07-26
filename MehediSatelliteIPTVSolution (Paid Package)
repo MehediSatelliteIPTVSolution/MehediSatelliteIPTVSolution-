@@ -93,10 +93,10 @@ http://103.205.133.14/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BDIX04",Ruposhi Bangla [IN]
 PWdUZHowbUx6dG1iMWgyWXZFR2JuNVdZaTlWYW9OM2J3Vm5jdlVtZHB4MkwwVm1idTgyYmtGbWFwZFdhazVpZDBCWGF1RURNbGRHWmw5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 ,STAR PLUS SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="HINDI ENT.",STAR PLUS
 https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 
-#EXTINF:-1 ,STAR PLUS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="HINDI ENT.",STAR PLUS HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="BDIX04",STAR BHARAT
