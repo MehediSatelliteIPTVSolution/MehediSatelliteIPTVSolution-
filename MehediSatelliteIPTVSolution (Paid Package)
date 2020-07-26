@@ -93,11 +93,11 @@ http://103.205.133.14/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BDIX04",Ruposhi Bangla [IN]
 PWdUZHowbUx6dG1iMWgyWXZFR2JuNVdZaTlWYW9OM2J3Vm5jdlVtZHB4MkwwVm1idTgyYmtGbWFwZFdhazVpZDBCWGF1RURNbGRHWmw5eUw2TUhjMFJIYQ==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="BDIX04",STAR PLUS
-NFUzTXQ1eWNyNVdkb04yTHpWSGJ3OWxjaFIzY3ZVbWRweDJMMFZtYnU4MmJrRm1hcGRXYWs1aWQwQlhhdUVETWxkR1psOXlMNk1IYzBSSGE=
+#EXTINF:-1 ,STAR PLUS SD
+https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="BDIX04",STAR PLUS HD
-NFUzTXQ1eWNyNVdkb04yTGtoMlh6VkhidzlsY2hSM2N2VW1kcHgyTDBWbWJ1ODJia0ZtYXBkV2FrNWlkMEJYYXVFRE1sZEdabDl5TDZNSGMwUkhh
+#EXTINF:-1 ,STAR PLUS HD
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="BDIX04",STAR BHARAT
 PWdUZHowbUx6dG1iMWgyWXZRWFl5RkdhaTlsY2hSM2N2VW1kcHgyTDBWbWJ1ODJia0ZtYXBkV2FrNWlkMEJYYXVFRE1sZEdabDl5TDZNSGMwUkhh
